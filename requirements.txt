@@ -1,0 +1,7 @@
+mlflow
+docker
+flask
+numpy
+pandas
+tensorflow
+scikit-learn
